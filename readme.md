@@ -2,10 +2,10 @@
 This app allows rooted Android smartphones to connect to ADB (Android Debug Bridge) via wifi networks.
 
 ## Screenshots
-
+<img src="https://github.com/santosleon/wireless_adb/blob/main/screenshots/connection.png" alt="connection_screenshot" height="400"/>    <img src="https://github.com/santosleon/wireless_adb/blob/main/screenshots/disconnection.png" alt="disconnection_screenshot" height="400"/>
 
 ## How to use?
-After installing the application, you can go to the platform-tools folder and enter the following commands in the terminal:
+After installing the application and starting connection on the mobile device, you can go to the platform-tools folder and enter the following commands in the terminal:
 ```sh
 cd C:\Users\Leon\AppData\Local\Android\Sdk\platform-tools
 adb devices
@@ -22,4 +22,4 @@ adb devices
 ```
 
 ## Licence
-GLPv3, [read more](LICENCE)
+GLPv3, [read more](https://github.com/santosleon/wireless_adb/blob/main/LICENSE)
